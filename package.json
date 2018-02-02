@@ -1,0 +1,17 @@
+{
+  "name": "diminutive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bryan Fillmer <bryan.fillmer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.1.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.0"
+  }
+}
